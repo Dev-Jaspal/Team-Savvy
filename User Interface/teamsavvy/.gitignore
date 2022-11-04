@@ -24,7 +24,7 @@ yarn-error.log*
 
 ../..RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.BusinessModel/obj/Debug/*
 ../..RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.Entities/obj/Debug/*
-../..RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.Middleware/obj/Debug/*
-../..RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.Services/obj/Debug/*
-../..RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.Utilities/obj/Debug/*
-../..RestFul Web API/TeamSavvy.Api/TeamSavvy.Api/obj/Debug/*
+../../RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.Middleware/obj/Debug/*
+../../RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.Services/obj/Debug/*
+../../RestFul Web API/TeamSavvy.Api/TeamSavvy.Api.Utilities/obj/Debug/*
+../../RestFul Web API/TeamSavvy.Api/TeamSavvy.Api/obj/Debug/*
