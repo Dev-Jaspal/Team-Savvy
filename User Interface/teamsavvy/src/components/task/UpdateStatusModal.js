@@ -35,7 +35,7 @@ const UpdateStatusModal = (props) => {
                     <Label for='task-status'>Status</Label>
                     <Input type='select' name='task-status' id='task-status'>
                       <option>Assigned</option>
-                      <option selected>In Progress</option>
+                      <option defaultValue>In Progress</option>
                       <option>Completed</option>
                     </Input>
               </Container>
@@ -57,4 +57,4 @@ const UpdateStatusModal = (props) => {
   )
 }
 
-export default UpdateStatusModal
+export default UpdateStatusModal;

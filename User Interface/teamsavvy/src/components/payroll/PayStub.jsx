@@ -1,11 +1,22 @@
 import React from "react";
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 
 import '../../assets/css/bootstrap.min.css'
 import './payroll.css'
 
-const Paystub = () => {
+const Paystub = ({data}) => {
 
+  console.log('payroll -')
+  console.log(data)
+  const location = useLocation();
+  // const history = userHistory();
+  // const { payrollItem = '1' } = location.state || {}
+  useEffect(() => {
+    
+  })
 
+  console.log(location)
   return(
     <>
       <div className="container">

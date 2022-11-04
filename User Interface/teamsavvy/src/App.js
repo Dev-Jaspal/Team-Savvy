@@ -56,7 +56,7 @@ function App() {
         <Route path="/task" element={<Task/>}/>
         <Route path="/payroll" element={<Payroll data={data} columns={COLUMNS} />} />
         <Route path="/jobs" element={<InternalJobs />} />
-        <Route path='/paystub' element={<Paystub/>} />
+        <Route path='/payroll/payrollId/:id' element={<Paystub/>} />
       </Routes>
       </main> 
     </div>

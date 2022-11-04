@@ -5,8 +5,17 @@ import AddOutlinedIcon from '@mui/icons-material/AddOutlined';
 import {
     Container, Row, Col, Card, CardImg, CardText, CardBody, CardLink,
     CardTitle, CardSubtitle, Button, ListGroup, ListGroupItem, List, Badge } from 'reactstrap';
+import { useEffect } from 'react';
+import AuthService from '../services/authService';
 
 const InternalJobs = () => {
+
+    const { http } = AuthService();
+    
+    useEffect(() => {
+
+    })
+
     return (
         <>
             <div className="content">
