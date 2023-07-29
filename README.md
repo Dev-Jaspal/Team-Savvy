@@ -32,13 +32,28 @@ To use TeamSavvy, follow these steps:
 ## Examples
 
 1. Landing screen for an employee, message for an employee for the attendance.
-![Bio meteric App ](<Design/Images/Biometeric app landing page.jpg>)
+<img src="Design/Images/Biometeric app landing page.jpg" alt="" style="height: 200px; width:350px;"/>
 
 2. After entering the employee id the button will be activated.
-![Employee ID page](<Design/Images/Employee id page.jpg>)
+<img src="Design/Images/Employee id page.jpg" alt="" style="height: 200px; width:350px;"/>
 
 3. The app will ask for biometric verification, if the fingerprint matches to the record of fingerprint in device the app will accept and allow user to clock-in or clock-out.
-![Biometeric verification](Design/Images/Fingerprint.jpg)
+<img src="Design/Images/Fingerprint.jpg" alt="" style="height: 200px; width:350px;"/>
 
 4. We have created API in .NET CORE using Entity Framework, LINQ, Automapper  and swagger documentation.
-![API](Design/Images/API.png)
+<img src="Design/Images/API.png" alt="" style="height: 200px; width:350px;"/>
+
+5. Dashboard is one of the main features of this application. It is the best tool for managers to handle project process, manage team members and do descriptive analysis using queries. 
+<img src="Design/Images/Dashboard.png" alt="" style="height: 200px; width:350px;"/>
+
+6. The screen has leave indicators, in and out time of an employee which will be connected from mobile app to the web platform. Employee can apply for leaves and delete applied leaves.
+<img src="Design/Images/Timesheet.png" alt="" style="height: 200px; width:350px;"/>
+
+7. The jobs page for employee have internal jobs created by HR and employee will not see the create job option. Employee can directly apply using Apply now button. HR will get the notification on their portal from where they can check the profile of an employee who applied.
+<img src="Design/Images/Internal Jobs.png" alt="" style="height: 200px; width:350px;"/>
+
+8. HR can see all the projects in company and on click of view link, they can see project details which will have number of tasks created, completed and details of each task. Create project button is only for manager to create new project it will show popup for entering project details, end, start date and budget. 
+<img src="Design/Images/Create Project.png.png" alt="" style="height: 200px; width:350px;"/>
+
+9. The user profile page has employee information, which is consist of Personal details, Team members with their contact details, Skill set and add new skill option, bank details, and resign option. 
+<img src="Design/Images/create-user.png.png" alt="" style="height: 200px; width:350px;"/>
