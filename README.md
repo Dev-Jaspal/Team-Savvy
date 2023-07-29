@@ -32,13 +32,13 @@ To use TeamSavvy, follow these steps:
 ## Examples
 
 1. Landing screen for an employee, message for an employee for the attendance.
-<img src="Design/Images/Biometeric app landing page.jpg" alt="" style="height: 200px; width:350px;"/>
+<img src="Design/Images/Biometeric app landing page.jpg" alt="" style="height: 350px; width:350px;"/>
 
 2. After entering the employee id the button will be activated.
-<img src="Design/Images/Employee id page.jpg" alt="" style="height: 300px; width:350px;"/>
+<img src="Design/Images/Employee id page.jpg" alt="" style="height: 350px; width:350px;"/>
 
 3. The app will ask for biometric verification, if the fingerprint matches to the record of fingerprint in device the app will accept and allow user to clock-in or clock-out.
-<img src="Design/Images/Fingerprint.jpg" alt="" style="height: 300px; width:350px;"/>
+<img src="Design/Images/Fingerprint.jpg" alt="" style="height: 350px; width:350px;"/>
 
 4. We have created API in .NET CORE using Entity Framework, LINQ, Automapper  and swagger documentation.
 <img src="Design/Images/API.png" alt="" style="height: 300px; width:350px;"/>
